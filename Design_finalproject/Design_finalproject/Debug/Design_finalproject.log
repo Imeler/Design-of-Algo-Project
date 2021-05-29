@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\sauve\source\repos\design_finalproject\design_finalproject\main.cpp(53): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\sauve\source\repos\design_finalproject\design_finalproject\main.cpp(85): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\sauve\source\repos\design_finalproject\design_finalproject\main.cpp(156): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\users\sauve\source\repos\design_finalproject\design_finalproject\main.cpp(157): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\users\sauve\source\repos\design_finalproject\design_finalproject\main.cpp(158): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\users\sauve\source\repos\design_finalproject\design_finalproject\main.cpp(173): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\sauve\source\repos\design_finalproject\design_finalproject\main.cpp(164): warning C4101: 'current_time': unreferenced local variable
+  Design_finalproject.vcxproj -> C:\Users\sauve\source\repos\Design_finalproject\Debug\Design_finalproject.exe
